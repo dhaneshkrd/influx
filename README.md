@@ -32,7 +32,7 @@ Each levels should have the same structure but must differ in their problem comp
 
 
 ---
-
+::
 ## Instructions for contribution
 
 The contributors are requested to create a new branch and work on that fork instead. Test the working of their branch and then submit a PR request to the master branch.
